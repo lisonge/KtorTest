@@ -4,6 +4,8 @@
 
 the reproduction of [KTOR-7298](https://youtrack.jetbrains.com/issue/KTOR-7298)
 
+[get apk file in github workflows](https://github.com/lisonge/KtorTest/actions/workflows/Build-Apk.yml)
+
 | ok                                                                                        | error                                                                                     |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | ![image](https://github.com/user-attachments/assets/5bbf37b5-54bd-43b2-9147-cf3c99336d58) | ![image](https://github.com/user-attachments/assets/a506a476-646e-4c9d-bfa4-7d89dc8344a2) |
